@@ -10,9 +10,9 @@ In this project, I analyzed a dataset containing job postings for data analysts 
 
 Pandas / Import csv / SQL-alchemy / Scipy / Scipy.stats / Seaborn & Matplotlib.pyplot for visualizations / SkLearn 
 
-# Methodology by Step
+# Methodology by File
 
-First, in **extract.py**, I utilize `sql-alchemy` to extract data kept in the database for this analysis. Mapped classes are created with default matching of the table names and I built queries to pull all Amazon data and created and saved new variables into dataframes in which I made two merges of these new dataframes into a new file for analysis.
+First, in **extract.py**, I utilized `sql-alchemy` to extract data kept in the database for this analysis. Mapped classes are created with default matching of the table names and I built queries to pull all Amazon data and created and saved new variables into dataframes in which I made two merges of these new dataframes into a new file for analysis.
 
 Second, in **transform.ipynb**, I fill in all missing values in the `work_from_home` column to be `False`.
 
@@ -39,5 +39,5 @@ Finally, in **predict.ipynb**,
 
 This analysis used various visualizations to represent the data and its findings. A histogram was used to visualize the distribution of salary_standardized, while boxplots were used to visualize the distribution of standard_salaries for positions that require specific skills. Bar charts, histograms, and other charts were used to represent the frequency of skill, city, and company occurrences.
 
-![alt text](https://github.com/[TechMikeSol]/[Job Statistics]/blob/[main]/full_salary_hist.jpg?raw=true)
+/Users/michaelcortez79/Job-Statistics/images/full_salary_all_analysts_box.jpg
 
