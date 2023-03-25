@@ -54,3 +54,7 @@ This analysis used various visualizations to represent the data and its findings
 ![Top 5 Skills](images/top_5_skills_bar.jpg)
 
 ![Top 10 Cities](images/top_10_cities_bar.jpg) 
+
+# Next Actions
+
+Doing ANOVA on these salaries for remote and non-remote workers to test their variance would prove feasible since the salary ranges are quite close. With ANOVA we could see if the salary is true across-the-board or if there might've been a mistake in the data collection. In the comapny section, the data was skewed toward freelance and contract-based data analyst work instead of corporate salary positions because of recruiting companies in this dataset. 
