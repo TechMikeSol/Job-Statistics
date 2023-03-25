@@ -39,5 +39,5 @@ Finally, in **predict.ipynb**,
 
 This analysis used various visualizations to represent the data and its findings. A histogram was used to visualize the distribution of salary_standardized, while boxplots were used to visualize the distribution of standard_salaries for positions that require specific skills. Bar charts, histograms, and other charts were used to represent the frequency of skill, city, and company occurrences.
 
-!(Full Salary All Analysts)[/Users/michaelcortez79/Job-Statistics/images](full_salary_hist.jpg)
+![/Users/michaelcortez79/Job-Statistics/images](full_salary_hist.jpg)
 
