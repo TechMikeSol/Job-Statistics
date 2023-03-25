@@ -50,5 +50,3 @@ tot_merge = pd.merge(m1, skills_df, how = "inner", on = ["id"])
 tot_merge.to_csv("data/joined_data.csv", index = False)
 
 #print(tot_merge)
-
-

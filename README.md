@@ -53,4 +53,4 @@ This analysis used various visualizations to represent the data and its findings
 
 ![Top 5 Skills](images/top_5_skills_bar.jpg)
 
-![Top 10 Cities](images/top_10_cities_bar.jpg)
+![Top 10 Cities](images/top_10_cities_bar.jpg) 
