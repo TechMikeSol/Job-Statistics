@@ -41,3 +41,16 @@ This analysis used various visualizations to represent the data and its findings
 
 ![Full Salary All Analysts Histogram](images/full_salary_hist.jpg)
 
+![Full Salary Non-Remote Analysts Histogram](images/full_salary_non_remote_hist.jpg)
+
+![Full Salary Remote Analysts Histogram](images/full_salary_remote_hist.jpg)
+
+![Full Salary Python](images/full_salary_python_box.jpg)
+
+![Full Salary SQL](images/full_salary_sql_box.jpg)
+
+![Top 5 Companies](images/top_5_companies_bar.jpg)
+
+![Top 5 Skills](images/top_5_skills_bar.jpg)
+
+![Top 10 Cities](images/top_10_cities_bar.jpg)
